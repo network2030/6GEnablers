@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+description:  Research, Innovation and Experimentation of Internet Protocol Evolutions for Future and Emerging Applications
+title: 6G Enablers
+
+github:
+   project_tagline: Custom tagline
+   owner_name: kiranmak@gmail.com
+   
+markdown: kramdown
