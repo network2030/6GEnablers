@@ -10,6 +10,6 @@ organized by IEEE, the 31st 'International Conference on Network Protocols'
 
 More information about the conference at [ICNP-23](https://icnp23.cs.ucr.edu)
 
-## [6G Enablers Workshop: Call for Papers](6GEnablers.html)
+## [6G Enablers Workshop: Call for Papers](https://network2030.github.io/6GEnablers/6GEnablers.html#call-for-papers)
 ## [6G Enablers Workshop: Keynote Speakers](6GEnablers.html)
 
