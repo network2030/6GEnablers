@@ -70,7 +70,7 @@ network protocols, information encoding, processing, decoding, packet transmissi
 This workshop aims to bring together researchers, practitioners, and industry experts to present and discuss 
 recent advancements and future directions for 6G enablers: Satellite, Qualitative, and Semantic Communications. 
 
-## Topics of Interest
+### Topics of Interest
 
 Topics of interest for this workshop include, but are not limited to:
 
@@ -98,7 +98,7 @@ Application of AI to a wide variety of satellite communication aspects
 
 ----
 
-## Submission Instructions
+### Submission Instructions
 
 Submissions must be original, unpublished work, and not under consideration at another conference or journal. Paper submissions should adhere to the IEEE Conference formatting requirements with double columns and the font size must be 10 points. Submitted papers must be written in English and have no more than Six (6) pages in double-column format with standard margins, two (2) additional pages may be permitted with over-length fee of $100/page. Papers must include author’s names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop onsite. If there are situations that prevent the authors from attending the workshop, the authors must discuss with the chairs case-by-case, and Zoom meetings might be provided for online presenters.
 
@@ -106,9 +106,9 @@ The IEEE template [available here](https://www.ieee.org/conferences/publishing/t
 
 #### Paper Submission
 
-Official ICNP 2023 Submission page: https://sqsc23.hotcrp.com
+Official ICNP 2023 Submission page: [https://sqsc23.hotcrp.com](https://sqsc23.hotcrp.com)
 
-## Programme Committee
+### Programme Committee
 
 #### General Co-Chairs
 
